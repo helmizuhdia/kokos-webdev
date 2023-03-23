@@ -1,0 +1,10 @@
+*{
+    background-color: brown;
+}
+h1{color: bisque;}
+button{
+    display: block;
+    width: 50%;
+    
+}
+a{color: black;}
